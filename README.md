@@ -14,9 +14,9 @@ You must have a Cloudflare account with one domain (zone) available. This script
 * During token creation, enable permissions "Zone.Zone.Settings" and "Zone.Zone," and "Zone.DNS" with resources "All Zones"
 
 
-# config.json
+# configs.json
 
-Create a file named "config.json" in the same directory as pyflare.py. This file should be formatted as JSON. For multiple records, create a list (or array) of dictionaries (objects) containing your parameters.
+Create a file named "configs.json" in the same directory as pyflare.py. This file should be formatted as JSON. For multiple records, create a list (or array) of dictionaries (objects) containing your parameters.
 
 ```
 [
