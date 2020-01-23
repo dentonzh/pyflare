@@ -8,7 +8,7 @@ If you are a Redditor please go give u/TheFirsh some tasty tasty karma.
  Cloudflare will host your DNS for free, on top of a whole heap of other benefits, and they have a really good API for updating DNS records. The idea is that you run this script like you would a dynamic DNS client - it's python so entirely cross platform and uses minimal and very common libraries.
 
 # configs.json
-You will need to create a config.json file in the same folder as pyflare.py - this file must be json formatted and contain the following 4 elements.
+You will need to create a configs.json file in the same folder as pyflare.py - this file must be json formatted and contain the following 4 elements.
 Note the curly braces are not to be included.
 
 ```
